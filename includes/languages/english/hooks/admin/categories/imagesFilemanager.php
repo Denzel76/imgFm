@@ -8,7 +8,7 @@
 */
 
 const PRODUCTS_IMAGES_FILEMANAGER_VERSION = "V2.00";
-define('SECTION_HEADING_IMAGES_FILEMANAGER', '<i class="fas fa-images fa-fw mr-1"></i>Product Images');
+const SECTION_HEADING_IMAGES_FILEMANAGER = '<i class="fas fa-images fa-fw mr-1"></i>Product Images';
 const TEXT_PRODUCTS_ADD_MULTI_LARGE_IMAGES = '<i class="fas fa-plus fa-fw mr-1"></i><i class="fas fa-plus fa-fw mr-1"></i>Add multiple Images';
 const TEXT_PRODUCTS_REMOVE_LARGE_IMAGES = '<i class="fas fa-minus fa-fw mr-1"></i>Remove all Gallery Images';
 const TEXT_REMOVE_ORPHANED_DB_ENTRIES  = '<i class="fas fa-minus fa-fw mr-1"></i>Remove orphaned DB-Entries';
